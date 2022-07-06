@@ -5,4 +5,4 @@ Ana Camargo :microphone:
 
 # **_Git_**
 Me gusta poder trabajar desde la terminal.. Es mágico.
-![Esto es una imagen](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)
+![Esto es una imagen](https://www.campusmvp.es/recursos/image.axd?picture=/2020/2T/git-post-blog.png )
